@@ -5,7 +5,7 @@
 ### Hi 👋
 
 I'm a Canadian Software engineer student.
-I really like OOP and software design and Retro Game.
+I really like OOP and software design.
 
 
 These days im working on learning more about OOP design and how to make
